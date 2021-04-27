@@ -1,5 +1,5 @@
 body{
-	background: "login.jpeg";
+	background: url("login.jpeg");
 }
 
 	.login_div1 , .login_div2
