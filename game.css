@@ -1,5 +1,6 @@
 body{
 	background: url("login.jpeg");
+	color: white;
 }
 
 	.login_div1 , .login_div2
@@ -26,10 +27,13 @@ body{
 }
 #output
 {
-background: blue;
-border-radius: 10px;
-border-top: 10px solid #AA4465;
-padding: 10px;
-float: none;
-text-align: left;
+	background: blue;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+#input_check_box{
+	color: red;
 }
